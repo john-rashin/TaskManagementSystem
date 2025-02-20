@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "CJjOu7gsW7DeuwqXHDypwB5S1SZm42Ac4k/r5Ges4ik=",
+  "Source": "TaskManagementSystem",
+  "BasePath": "_content/TaskManagementSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TaskManagementSystem\\wwwroot",
+      "Source": "TaskManagementSystem",
+      "ContentRoot": "C:\\Rashin Files\\C# Applications\\TaskManagementSystem\\wwwroot\\",
+      "BasePath": "_content/TaskManagementSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
